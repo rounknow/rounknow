@@ -12,6 +12,11 @@ Engenheiro de Software Front-end focado em criar interfaces ricas, sistemas de a
 - **Frontend:** Lit Element, React, Tailwind CSS.
 - **Ferramentas:** Git, Node.js, Vite, PocketBase.
 
+### 📱 Projetos em Destaque (Produção)
+*   **App na Play Store (Godot Engine):** Desenvolvi, em colaboração, um aplicativo mobile focado em [informação e de entretenimento. Seu propósito é simular que o usuário possui 1 (um) Bitcoin e exibir, em tempo real, o valor equivalente em reais (BRL), com base na cotação atual do mercado], atualmente disponível para usuários Android. 
+    *   **Desafio Técnico:** Implementação de lógica de jogo complexa, otimização de performance para dispositivos móveis e integração de sistemas.
+    *   **Link:** [Visualizar na Play Store](https://play.google.com/store/apps/details?id=com.alrenostudios.bitcoin)
+
 ### 🌐 Idiomas
 - **Português:** Nativo
 - **Inglês:** Técnico (Leitura e documentação)
