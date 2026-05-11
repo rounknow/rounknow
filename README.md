@@ -16,6 +16,13 @@ Engenheiro de Software Front-end focado em criar interfaces ricas, sistemas de a
 *   **App na Play Store (Godot Engine):** Desenvolvi, em colaboração, um aplicativo mobile focado em [informação e de entretenimento. Seu propósito é simular que o usuário possui 1 (um) Bitcoin e exibir, em tempo real, o valor equivalente em reais (BRL), com base na cotação atual do mercado], atualmente disponível para usuários Android. 
     *   **Desafio Técnico:** Implementação de lógica de jogo complexa, otimização de performance para dispositivos móveis e integração de sistemas.
     *   **Link:** [Visualizar na Play Store](https://play.google.com/store/apps/details?id=com.alrenostudios.bitcoin)
+ 
+### 🛠️ Projetos de Destaque (Open Source)
+
+*   **[EngineJS](https://github.com/rounknow/EngineJS)** (2019)
+    *   **O que é:** Uma biblioteca autoral focada em interatividade web utilizando Programação Orientada a Objetos (OOP).
+    *   **Objetivo:** Facilitar a criação de infográficos interativos, games 2D e interfaces dinâmicas unindo JavaScript puro e CSS.
+    *   **Legado:** Este projeto foi a base para o desenvolvimento da minha própria Engine de componentes reutilizáveis, conceitos que hoje aplico em escala com **Lit** e **Web Components**.
 
 ### 🌐 Idiomas
 - **Português:** Nativo
