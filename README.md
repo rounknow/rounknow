@@ -1,33 +1,27 @@
 # Olá, eu sou o Ronaldo Augusto! 👋
 
-Engenheiro de Software Front-end focado em criar interfaces ricas, sistemas de autoria e componentes escaláveis. Atualmente, trabalho na modernização de portais acadêmicos e ferramentas interativas.
+Sou Engenheiro de Software Front-end. No meu dia a dia, foco em criar interfaces interativas, sistemas de autoria e componentes que facilitem a vida de outros desenvolvedores. Atualmente, trabalho modernizando portais acadêmicos e criando ferramentas de ensino na UNINOVE.
 
-### 🚀 O que eu faço
-*   **Web Components:** Especialista em Lit para criação de design systems modulares.
-*   **Interatividade:** Experiência avançada com Canvas API e motores de jogos (Phaser, Godot).
-*   **Arquitetura:** Desenvolvimento de SPAs robustas com TypeScript e integração com backends modernos.
+### 🚀 No que estou focado agora:
+*   **Web Components:** Uso muito **Lit** para criar Design Systems que escalam.
+*   **Interatividade:** Tenho um pé no Game Dev, então domino Canvas API e engines como Godot e Phaser para criar experiências ricas.
+*   **Arquitetura:** Construção de SPAs robustas com TypeScript, integrando com Node.js e backends modernos.
 
-### 🛠️ Tecnologias
-- **Linguagens:** TypeScript, JavaScript (ES6+), PHP, SQL.
-- **Frontend:** Lit Element, React, Tailwind CSS.
-- **Ferramentas:** Git, Node.js, Vite, PocketBase.
+### 📱 Em Produção (Play Store)
+*   **Simulador de Bitcoin (Godot):** Desenvolvi com alguns colegas um app que simula a posse de 1 BTC, convertendo o valor em tempo real para BRL. Foi um ótimo exercício de integração de APIs e performance mobile em Godot.
+    *   [Visualizar na Play Store](https://play.google.com/store/apps/details?id=com.alrenostudios.bitcoin)
 
-### 📱 Projetos em Destaque (Produção)
-*   **App na Play Store (Godot Engine):** Desenvolvi, em colaboração, um aplicativo mobile focado em [informação e de entretenimento. Seu propósito é simular que o usuário possui 1 (um) Bitcoin e exibir, em tempo real, o valor equivalente em reais (BRL), com base na cotação atual do mercado], atualmente disponível para usuários Android. 
-    *   **Desafio Técnico:** Implementação de lógica de jogo complexa, otimização de performance para dispositivos móveis e integração de sistemas.
-    *   **Link:** [Visualizar na Play Store](https://play.google.com/store/apps/details?id=com.alrenostudios.bitcoin)
- 
-### 🛠️ Projetos de Destaque (Open Source)
+### 🛠️ Projetos Open Source
+*   **EngineJS (2019):** Minha primeira biblioteca autoral de interatividade baseada em OOP. Foi aqui que comecei a criar minha própria lógica de componentes reutilizáveis antes de migrar para o padrão oficial de Web Components.
 
-*   **[EngineJS](https://github.com/rounknow/EngineJS)** (2019)
-    *   **O que é:** Uma biblioteca autoral focada em interatividade web utilizando Programação Orientada a Objetos (OOP).
-    *   **Objetivo:** Facilitar a criação de infográficos interativos, games 2D e interfaces dinâmicas unindo JavaScript puro e CSS.
-    *   **Legado:** Este projeto foi a base para o desenvolvimento da minha própria Engine de componentes reutilizáveis, conceitos que hoje aplico em escala com **Lit** e **Web Components**.
+### 🛠️ Tech Stack
+- **Languages:** TypeScript, JavaScript, PHP, SQL.
+- **Frontend:** Lit, React, Tailwind CSS, Canvas API.
+- **Tools:** Node.js, Vite, PocketBase, Git.
 
 ### 🌐 Idiomas
-- **Português:** Nativo
-- **Inglês:** Técnico (Leitura e documentação)
-- **Japonês:** Intermediário (JLPT N4/N3)
+- **Inglês:** Técnico (Documentação e leitura).
+- **Japonês:** Nível N4/N3 (Consigo traduzir e compreender textos).
 
 ---
-*Fique à vontade para explorar meus repositórios ou entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/ronaldo-moreira-86a71b57/)!*
+Fique à vontade para explorar meus repositórios ou me dar um oi no [LinkedIn](https://www.linkedin.com/in/ronaldo-moreira-86a71b57/)!
