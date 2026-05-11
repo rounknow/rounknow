@@ -1,4 +1,4 @@
-# Olá, eu sou o Ronaldo! 👋
+# Olá, eu sou o Ronaldo Augusto! 👋
 
 Engenheiro de Software Front-end focado em criar interfaces ricas, sistemas de autoria e componentes escaláveis. Atualmente, trabalho na modernização de portais acadêmicos e ferramentas interativas.
 
