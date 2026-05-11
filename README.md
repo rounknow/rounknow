@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Ronaldo! 👋
 
-<!--
-**rounknow/rounknow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Software Front-end focado em criar interfaces ricas, sistemas de autoria e componentes escaláveis. Atualmente, trabalho na modernização de portais acadêmicos e ferramentas interativas.
 
-Here are some ideas to get you started:
+### 🚀 O que eu faço
+*   **Web Components:** Especialista em Lit para criação de design systems modulares.
+*   **Interatividade:** Experiência avançada com Canvas API e motores de jogos (Phaser, Godot).
+*   **Arquitetura:** Desenvolvimento de SPAs robustas com TypeScript e integração com backends modernos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+- **Linguagens:** TypeScript, JavaScript (ES6+), PHP, SQL.
+- **Frontend:** Lit Element, React, Tailwind CSS.
+- **Ferramentas:** Git, Node.js, Vite, PocketBase.
+
+### 🌐 Idiomas
+- **Português:** Nativo
+- **Inglês:** Técnico (Leitura e documentação)
+- **Japonês:** Intermediário (JLPT N4/N3)
+
+---
+*Fique à vontade para explorar meus repositórios ou entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/ronaldo-moreira-86a71b57/)!*
